@@ -1,0 +1,18 @@
+.border-b-2 ul li{
+    margin:15px 15px ;
+    position:relative;
+}
+
+ ul .activeNav::after{
+     content: "";
+     display: block;
+    position: absolute;
+    height :2px;
+    background-color:#da3e2b;
+    bottom: 0;
+    width: 100%!important
+ }
+.Navigation{
+    @apply flex text-white pt-10 absolute bg-gray-900 top-0 left-0 h-full w-2/6 z-50 md:pt-0 md:bg-transparent md:text-black md:relative md:h-auto md:w-full md:flex;
+
+}

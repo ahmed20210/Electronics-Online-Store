@@ -1,0 +1,36 @@
+.footerf ul{
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.footerf p{
+    font-weight: bold;
+    margin: 0 0 20px 0;
+    font-size: large;
+
+}
+.footerf div{
+    font-size: small;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.footerf ul li{
+    margin: 5px 0;
+    cursor: pointer;
+}
+.footerf ul li:hover {
+    color:#DD3F2C;
+}
+.footerf{
+    background-color: #15161D;
+}
+.footergrid{
+    @apply w-1/2 lg:w-3/12
+}
+.footerf svg{
+    margin: 0 10px 0 0;
+    color: #DD3F2C;
+}

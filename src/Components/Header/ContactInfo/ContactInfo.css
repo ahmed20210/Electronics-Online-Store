@@ -1,0 +1,18 @@
+.contact{
+    font-size:small;
+    color:#fff;
+    background-color: #1e1f29
+}
+div ul, div ul li , div ul a{
+    display: flex;
+    align-items: center;
+    margin: 0 3px;
+    
+}
+.contact ul span{
+    margin:5px;
+     color:#d33b29
+ }
+ .contact ul li:hover{
+     color: #d33b29
+ }

@@ -1,0 +1,30 @@
+.hovercarousel:hover{
+    background-color:#E4E7ED;
+    color:#DA3E2B ;
+}
+.hovercarousel{
+    border-radius: 999px;
+    padding:10px
+}
+.hoveffect{    width:98.5%;
+    transition: .3s;
+    transform:translatey(-100%);
+    box-shadow: 1px;
+}
+
+.carousel:hover .hoveffect{
+    transform: translatey(-1%);
+}
+.carousel:hover .border-2{
+    border-color: #DA3E2B;
+    border-bottom: rgb(32, 31, 31);
+}
+.addbtn:hover svg{
+    display: block;
+}
+.addbtn:hover{
+    border-width: 2px;
+border-color:#DA3E2B ;
+background-color: white;
+color: #DA3E2B;
+}
