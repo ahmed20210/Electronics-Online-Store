@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Electronics-Online-StorePublic/static/css/main.b6fdcc50.chunk.css",
+    "main.js": "/Electronics-Online-StorePublic/static/js/main.61230044.chunk.js",
+    "main.js.map": "/Electronics-Online-StorePublic/static/js/main.61230044.chunk.js.map",
+    "runtime-main.js": "/Electronics-Online-StorePublic/static/js/runtime-main.1f636013.js",
+    "runtime-main.js.map": "/Electronics-Online-StorePublic/static/js/runtime-main.1f636013.js.map",
+    "static/css/2.0d0a3b9f.chunk.css": "/Electronics-Online-StorePublic/static/css/2.0d0a3b9f.chunk.css",
+    "static/js/2.05f8c52c.chunk.js": "/Electronics-Online-StorePublic/static/js/2.05f8c52c.chunk.js",
+    "static/js/2.05f8c52c.chunk.js.map": "/Electronics-Online-StorePublic/static/js/2.05f8c52c.chunk.js.map",
+    "index.html": "/Electronics-Online-StorePublic/index.html",
+    "static/css/2.0d0a3b9f.chunk.css.map": "/Electronics-Online-StorePublic/static/css/2.0d0a3b9f.chunk.css.map",
+    "static/css/main.b6fdcc50.chunk.css.map": "/Electronics-Online-StorePublic/static/css/main.b6fdcc50.chunk.css.map",
+    "static/js/2.05f8c52c.chunk.js.LICENSE.txt": "/Electronics-Online-StorePublic/static/js/2.05f8c52c.chunk.js.LICENSE.txt",
+    "static/media/HotDeals.css": "/Electronics-Online-StorePublic/static/media/hotdeal.a9359af3.png",
+    "static/media/product01.4097d193.png": "/Electronics-Online-StorePublic/static/media/product01.4097d193.png",
+    "static/media/product02.70190c90.png": "/Electronics-Online-StorePublic/static/media/product02.70190c90.png",
+    "static/media/product03.9efd2f21.png": "/Electronics-Online-StorePublic/static/media/product03.9efd2f21.png",
+    "static/media/product04.f70b9f51.png": "/Electronics-Online-StorePublic/static/media/product04.f70b9f51.png",
+    "static/media/product05.a891f648.png": "/Electronics-Online-StorePublic/static/media/product05.a891f648.png",
+    "static/media/product06.61d4d19c.png": "/Electronics-Online-StorePublic/static/media/product06.61d4d19c.png",
+    "static/media/product07.7498c028.png": "/Electronics-Online-StorePublic/static/media/product07.7498c028.png",
+    "static/media/product08.8f0b6715.png": "/Electronics-Online-StorePublic/static/media/product08.8f0b6715.png",
+    "static/media/product09.c8102ebc.png": "/Electronics-Online-StorePublic/static/media/product09.c8102ebc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f636013.js",
+    "static/css/2.0d0a3b9f.chunk.css",
+    "static/js/2.05f8c52c.chunk.js",
+    "static/css/main.b6fdcc50.chunk.css",
+    "static/js/main.61230044.chunk.js"
+  ]
+}
