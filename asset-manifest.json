@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Electronics-Online-Store/static/css/main.89846d45.chunk.css",
+    "main.css": "/Electronics-Online-Store/static/css/main.9ccb6a46.chunk.css",
     "main.js": "/Electronics-Online-Store/static/js/main.19349acb.chunk.js",
     "main.js.map": "/Electronics-Online-Store/static/js/main.19349acb.chunk.js.map",
     "runtime-main.js": "/Electronics-Online-Store/static/js/runtime-main.0ddb9b9b.js",
     "runtime-main.js.map": "/Electronics-Online-Store/static/js/runtime-main.0ddb9b9b.js.map",
-    "static/css/2.0d0a3b9f.chunk.css": "/Electronics-Online-Store/static/css/2.0d0a3b9f.chunk.css",
+    "static/css/2.3dba7ab4.chunk.css": "/Electronics-Online-Store/static/css/2.3dba7ab4.chunk.css",
     "static/js/2.0cdcdaa5.chunk.js": "/Electronics-Online-Store/static/js/2.0cdcdaa5.chunk.js",
     "static/js/2.0cdcdaa5.chunk.js.map": "/Electronics-Online-Store/static/js/2.0cdcdaa5.chunk.js.map",
     "index.html": "/Electronics-Online-Store/index.html",
-    "static/css/2.0d0a3b9f.chunk.css.map": "/Electronics-Online-Store/static/css/2.0d0a3b9f.chunk.css.map",
-    "static/css/main.89846d45.chunk.css.map": "/Electronics-Online-Store/static/css/main.89846d45.chunk.css.map",
+    "static/css/2.3dba7ab4.chunk.css.map": "/Electronics-Online-Store/static/css/2.3dba7ab4.chunk.css.map",
+    "static/css/main.9ccb6a46.chunk.css.map": "/Electronics-Online-Store/static/css/main.9ccb6a46.chunk.css.map",
     "static/js/2.0cdcdaa5.chunk.js.LICENSE.txt": "/Electronics-Online-Store/static/js/2.0cdcdaa5.chunk.js.LICENSE.txt",
     "static/media/HotDeals.css": "/Electronics-Online-Store/static/media/hotdeal.a9359af3.png",
     "static/media/product01.4097d193.png": "/Electronics-Online-Store/static/media/product01.4097d193.png",
@@ -25,9 +25,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0ddb9b9b.js",
-    "static/css/2.0d0a3b9f.chunk.css",
+    "static/css/2.3dba7ab4.chunk.css",
     "static/js/2.0cdcdaa5.chunk.js",
-    "static/css/main.89846d45.chunk.css",
+    "static/css/main.9ccb6a46.chunk.css",
     "static/js/main.19349acb.chunk.js"
   ]
 }
